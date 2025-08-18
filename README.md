@@ -5,9 +5,11 @@
  Install others like- install playwright, pytest-playwright .
  Check all install list-  
  ```pip list```
-      Create a virtual environment  -
+     
+  Create a virtual environment  -
       ```-m venv venv1```
-      ```venv1\Scripts\activate```
+ 
+   ```venv1\Scripts\activate```
       OR,
         ```deactivate```
         
