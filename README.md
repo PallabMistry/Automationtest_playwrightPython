@@ -2,7 +2,7 @@
 
 ⚙️Set all ```VSCODE``` folder & file create, then open it. 
 
- Install others like- install playwright, pytest-playwright .
+ Install others like-  playwright install, pytest-playwright .
  Check all install list-  
  ```pip list```
      
@@ -15,6 +15,7 @@
         
 Run the normal test-
   ```python test.py```
+Check - pip list ,Make a requirement.txt
         
 
         
