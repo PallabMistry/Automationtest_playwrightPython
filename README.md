@@ -19,4 +19,3 @@ Check - pip list ,Make a requirement.txt
         
 
        
-https://github-readme-stats.vercel.app/api/pin/?username=Yusuf-Hridoy&repo=Cypress-Web-Automation
